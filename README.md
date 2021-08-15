@@ -85,6 +85,7 @@ alt="HTML"
 <!-- BLOG-POST-LIST:START -->
 - [Reusable Toggler with Custom React Hooks](https://dhwajsharma.hashnode.dev/reusable-toggler-with-custom-react-hooks)
 - [Simplify Context components with the useContext() Hook in React](https://dhwajsharma.hashnode.dev/simplify-context-components-with-the-usecontext-hook-in-react)
+- - [Local Notes in React with react-quill](https://dhwajsharma.hashnode.dev/local-notes-in-react-with-react-quill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
